@@ -15,7 +15,7 @@
 <a href="https://discord.gg/103danran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="103danran" height="30" width="40" /></a>
 </p>
 
-<br><br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -37,7 +37,7 @@
 </a>
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaofferreira103&show_icons=true&locale=en&layout=compact" alt="joaofferreira103" />
